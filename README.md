@@ -10,3 +10,6 @@ Example : 135 = 133355555
 3#IncrementArray:
 Converts array to a int, then increments it and finally converts it to array again
 there is no ( no digit input in array) protection
+4#CamelCase:
+converts given String to camle-case string and removing all numbers
+Example : myName1 -> my-name / Toma2szHaj22to - tomasz-hajto
